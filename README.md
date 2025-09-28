@@ -43,7 +43,7 @@ Welcome to the comprehensive MySQL learning repository! This repository is desig
 - Basic understanding of computers (no prior database knowledge required!)
 
 ### Installation
-1. Download and install MySQL Server from [mysql.com](https://dev.mysql.com/downloads/)
+1. Download and install MySQL Server from [mysql.com](https://dev.mysql.com/downloads/installer/)
 2. Install MySQL Workbench for a graphical interface
 3. Start MySQL service on your system
 
