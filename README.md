@@ -11,29 +11,32 @@ Welcome to the comprehensive MySQL learning repository! This repository is desig
 - [x] Creating your first table
 - [x] Understanding data types
 
-### Day 2: Table Operations
-- [ ] Inserting data into tables
+### Day 2: Advanced Data Types and Data Insertion
+- [x] Advanced data types (ENUM, SET, JSON, BIT, precision types)
+- [x] Constraints and indexes
+- [x] Data insertion techniques
+- [x] Bulk operations and error handling
 - [ ] Selecting and viewing data
 - [ ] Updating records
 - [ ] Deleting records
 
-### Day 3: Advanced Queries
-- [ ] WHERE clauses
+### Day 3: Data Retrieval and Queries
+- [ ] WHERE clauses and filtering
 - [ ] ORDER BY and GROUP BY
 - [ ] Joins between tables
-- [ ] Subqueries
+- [ ] Subqueries and advanced queries
 
-### Day 4: Database Design
+### Day 4: Data Modification and Relationships
+- [ ] Updating and deleting records
 - [ ] Primary keys and foreign keys
 - [ ] Relationships between tables
-- [ ] Indexes and performance
-- [ ] Normalization
+- [ ] Indexes and performance optimization
 
-### Day 5: Advanced Topics
-- [ ] Stored procedures
-- [ ] Functions
-- [ ] Triggers
-- [ ] Views
+### Day 5: Advanced MySQL Features
+- [ ] Database design and normalization
+- [ ] Stored procedures and functions
+- [ ] Triggers and events
+- [ ] Views and advanced features
 
 ## 🚀 Getting Started
 
@@ -51,31 +54,33 @@ Welcome to the comprehensive MySQL learning repository! This repository is desig
 
 ```
 ├── Day 1/          # Database creation and basic concepts
-├── Day 2/          # Table operations and data manipulation
-├── Day 3/          # Advanced queries and relationships
-├── Day 4/          # Database design principles
+├── Day 2/          # Advanced data types and data insertion
+├── Day 3/          # Data retrieval and querying
+├── Day 4/          # Data modification and relationships
 ├── Day 5/          # Advanced MySQL features
-├── exercises/      # Practice exercises
-└── examples/       # Real-world examples
+├── FAQ.md          # Frequently asked questions
+└── QUICK_START.md  # Quick start guide
 ```
 
 ## 🎯 Learning Objectives
 
 By the end of this course, you will be able to:
-- Create and manage MySQL databases
-- Design efficient database schemas
-- Write complex SQL queries
-- Understand database relationships
-- Optimize database performance
-- Apply best practices in database design
+- Create and manage MySQL databases and tables
+- Use advanced data types (JSON, ENUM, SET, precision types)
+- Insert, update, and delete data effectively
+- Write complex SQL queries with joins and subqueries
+- Design efficient database schemas with proper relationships
+- Optimize database performance with indexes
+- Apply best practices in database design and normalization
 
 ## 📖 How to Use This Repository
 
 1. **Start with Day 1** - Don't skip the basics!
-2. **Follow the examples** - Each lesson includes practical examples
-3. **Complete the exercises** - Practice makes perfect
-4. **Ask questions** - Use GitHub Issues for questions
-5. **Practice regularly** - Database skills improve with consistent practice
+2. **Follow the examples** - Each lesson includes practical examples with detailed comments
+3. **Complete the exercises** - Practice exercises with real-world scenarios
+4. **Run the cleanup scripts** - Keep your environment clean between lessons
+5. **Ask questions** - Use GitHub Issues for questions and discussions
+6. **Practice regularly** - Database skills improve with consistent practice
 
 ## 🤝 Contributing
 
@@ -91,6 +96,7 @@ If you get stuck or have questions:
 - Check the FAQ section
 - Open an issue on GitHub
 - Join our learning community discussions
+- Connect with fellow learners on WhatsApp: [MySQL Beginner Group](https://chat.whatsapp.com/C4p8I7jF0dOKf2IpselMfG)
 
 ---
 
