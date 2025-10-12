@@ -20,11 +20,15 @@ Welcome to the comprehensive MySQL learning repository! This repository is desig
 - [ ] Updating records
 - [ ] Deleting records
 
-### Day 3: Data Retrieval and Queries
-- [ ] WHERE clauses and filtering
-- [ ] ORDER BY and GROUP BY
-- [ ] Joins between tables
-- [ ] Subqueries and advanced queries
+### Day 3: Data Retrieval and Filtering
+- [x] Basic SELECT statements
+- [x] WHERE clauses and filtering
+- [x] Comparison operators (=, !=, <, >, <=, >=)
+- [x] Logical operators (AND, OR, NOT)
+- [x] Pattern matching with LIKE
+- [x] Range filtering with BETWEEN
+- [x] List filtering with IN
+- [x] NULL value handling
 
 ### Day 4: Data Modification and Relationships
 - [ ] Updating and deleting records
